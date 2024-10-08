@@ -1,4 +1,4 @@
-## Check main.dart for the actul code
+## Check main.dart for the actual code
 
 
 
